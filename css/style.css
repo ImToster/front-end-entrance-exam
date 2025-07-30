@@ -36,6 +36,7 @@ body {
 }
 
 [contenteditable="true"] {
+  cursor: pointer;
   border: none;
   outline: none;
   box-shadow: none;
@@ -456,4 +457,5 @@ footer {
   color: var(--text-on-accent);
   border: none;
   font-size: 20px;
+  cursor: pointer;
 }
